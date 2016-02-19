@@ -1,2 +1,2 @@
 # EdiTree
-Rhino Grasshopper Plugin for DataTree Stuffs.
+Rhino Grasshopper Add-on for Data Structure Management and Manipulation.
